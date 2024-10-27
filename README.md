@@ -23,8 +23,8 @@ With this calculator, performing these complex calculations is simple and error-
 
 ## Interface Design
 - **Home Page**
-  ![Home Page](https://github.com/RudranshKaran/CommonCents-An_Expense_Manager/assets/137274208/f871c2f0-7a2f-461e-b3f1-2775aadfcc88)
+  ![Home Page](https://github.com/RudranshKaran/CPR-and-Nernst-Equation-Calculator/blob/main/Home%20Page.jpg)
 - **CPR Page**
-  ![CPR Page](https://github.com/RudranshKaran/CommonCents-An_Expense_Manager/assets/137274208/1f21cb96-22d8-4485-bba8-92a75b44544f)
+  ![CPR Page](https://github.com/RudranshKaran/CPR-and-Nernst-Equation-Calculator/blob/main/CPR%20Page.jpg)
 - **Nernst Equation Page**
-  ![Nernst Equation Page](https://github.com/RudranshKaran/CommonCents-An_Expense_Manager/assets/137274208/618405fe-e7e8-43ad-a6ff-ee301b650d24)
+  ![Nernst Equation Page](https://github.com/RudranshKaran/CPR-and-Nernst-Equation-Calculator/blob/main/Nernst%20Equation%20Page.jpg)
