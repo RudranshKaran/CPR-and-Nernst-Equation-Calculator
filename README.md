@@ -28,3 +28,10 @@ With this calculator, performing these complex calculations is simple and error-
   ![CPR Page](https://github.com/RudranshKaran/CPR-and-Nernst-Equation-Calculator/blob/main/CPR%20Page.jpg)
 - **Nernst Equation Page**
   ![Nernst Equation Page](https://github.com/RudranshKaran/CPR-and-Nernst-Equation-Calculator/blob/main/Nernst%20Equation%20Page.jpg)
+
+## GUI Preview
+Here is the preview of the GUI.
+
+[GUI Preview Compressed.mp4](https://github.com/RudranshKaran/CPR-and-Nernst-Equation-Calculator/blob/main/GUI%20Preview%20Compressed.mp4)
+## Developed By
+- [Rudransh Karan](https://github.com/RudranshKaran)
